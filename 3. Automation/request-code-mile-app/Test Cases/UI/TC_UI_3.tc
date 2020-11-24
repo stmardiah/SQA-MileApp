@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_UI_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>285ca59c-f6b0-487b-9ac1-711791e3d81b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2cd33a6-f04c-4ce4-adb9-8ef2c8069775</id>
+      <masked>false</masked>
+      <name>full_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b82fc075-eb74-456a-9682-e2509def1d13</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80538bba-74c3-46b5-9b1d-87b857471bf8</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>513dca1f-1009-4247-aac7-e8ed6b7fdb4f</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+</TestCaseEntity>
